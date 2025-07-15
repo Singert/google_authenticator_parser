@@ -1,10 +1,3 @@
-太好了，既然测试成功，以下是你需要的：
-
----
-
-## ✅ `README.md`
-
-````markdown
 # Google Authenticator QR Code Decoder (Go)
 
 本项目提供一个 Go 程序，用于解析 Google Authenticator 导出的迁移二维码（`otpauth-migration://` URL），并提取出账号信息和 Base32 编码的 Secret。
@@ -60,14 +53,6 @@ go install google.golang.org/protobuf/cmd/protoc-gen-go@latest
 
 ---
 
-MIT License
 
-
----
-
-## ✅ Git commit message
-
-=
-````
 
  
